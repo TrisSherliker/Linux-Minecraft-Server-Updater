@@ -77,3 +77,7 @@ To stop the server, run: kill 13909
 PID saved to server.pid
 
 ```
+
+## Note on creation
+
+A lot of this script is created by AI (Claude Sonnet 4, 2025-06-01). My early version was functional for my occasional purposes, but this version has been extended e.g. with interactivity, logging, and the launch-server functionality. Therefore, approach it with that in mind. Ensure you understand the code properly and are comfortable with it before running. 
