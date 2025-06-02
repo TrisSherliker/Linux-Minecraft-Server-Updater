@@ -18,6 +18,8 @@ It's a faff trying to update a dedicated server with each Minecraft version upgr
  3. Run the script: `chmod +x upgrade.sh` and `./upgrade.sh`. Follow any prompts. 
  4. Launch the server: `./launch-server`.
 
+Don't forget to update your launcher to match the version. for example: `flatpak update io.mrarm.mcpelauncher` (or as approproate for your launcher and installation method).
+
 ## Example output
 
 ```shell
